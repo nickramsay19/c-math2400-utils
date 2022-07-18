@@ -1,0 +1,4 @@
+dist/
+src/**/build/
+src/**/dist/
+build_old.sh
